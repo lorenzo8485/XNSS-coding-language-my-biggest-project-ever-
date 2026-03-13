@@ -2,3 +2,4 @@
 XNSS is a coding language similar to python and its open-source! 
 requires visual redistribution c++ and smfl 2.6.1
 NOTE:Only on windows 10/11
+ALSO NOTE:I have no coding experience and made the interpreter and motor with gemini.
